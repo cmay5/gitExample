@@ -1,4 +1,10 @@
+role,NetID,LastName,FirstName
 boss,cmay5,May,Charlie
+<<<<<<< HEAD
 employee,dlatto88,Latto,Daniel
 employee,dlatto88,Latto,Daniel
 employee,dlatto88,Latto,Daniel
+=======
+employee, kgupta42, Gupta, Khushboo
+>>>>>>> ac195ed26beb891b70c8b07c5440befb7da01ef0
+employee,dlato88,Latto,Daniel
